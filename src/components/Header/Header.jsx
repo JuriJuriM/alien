@@ -3,7 +3,8 @@ import './Header.scss'
 import Burger from './menu.svg.png'
 import BurgerClose from './close-menu.png'
 import Logo from '../../assets/img/logo.jpg'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+//import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import { Link, Route, Routes } from 'react-router-dom'
 import Main from '../pages/Main'
 import Second from '../pages/Second'
 import Third from '../pages/Third'
@@ -12,7 +13,7 @@ const Header = () => {
     const [isOpen, setOpen] = useState();
     return (
         <>
-            <div className='header'>
+            <header className='header'>
                 <div className='container'>
                     <div className='header__body'>
                         <div className='header__logo'>
@@ -21,13 +22,13 @@ const Header = () => {
                         <nav className={`header__nav ${isOpen ? 'active' : ''}`}>
                             <ul className='header__nav-list'>
                                 <li className='header__nav-item'>
-                                    <a href='/'>Main</a>
+                                    <Link to='/'>Main</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <a href='/second'>Second</a>
+                                    <Link to='/second'>Second</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <a href='/third'>Third</a>
+                                    <Link to='/third'>Third</Link>
                                 </li>
                             </ul>
                         </nav>
@@ -36,14 +37,12 @@ const Header = () => {
                         </span>
                     </div>
                 </div>
-            </div>
-            <Router className='router'>
-                <Routes>
-                    <Route path='/' element={<Main />} />
-                    <Route path='/second' element={<Second />} />
-                    <Route path='/third' element={<Third />} />
-                </Routes>
-            </Router>
+            </header>
+            <Routes>
+                <Route path='/' element={<Main />} />
+                <Route path='/second' element={<Second />} />
+                <Route path='/third' element={<Third />} />
+            </Routes>
         </>
     )
 }
