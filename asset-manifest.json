@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/alien/static/css/main.b8f1803e.css",
-    "main.js": "/alien/static/js/main.9c09f67d.js",
+    "main.js": "/alien/static/js/main.a32af6fc.js",
     "index.html": "/alien/index.html",
     "main.b8f1803e.css.map": "/alien/static/css/main.b8f1803e.css.map",
-    "main.9c09f67d.js.map": "/alien/static/js/main.9c09f67d.js.map"
+    "main.a32af6fc.js.map": "/alien/static/js/main.a32af6fc.js.map"
   },
   "entrypoints": [
     "static/css/main.b8f1803e.css",
-    "static/js/main.9c09f67d.js"
+    "static/js/main.a32af6fc.js"
   ]
 }
