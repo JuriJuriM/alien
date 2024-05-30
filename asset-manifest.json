@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/alien/static/css/main.b8f1803e.css",
-    "main.js": "/alien/static/js/main.a32af6fc.js",
+    "main.css": "/alien/static/css/main.cac43dab.css",
+    "main.js": "/alien/static/js/main.a90fef06.js",
+    "static/media/retroalien.jpg": "/alien/static/media/retroalien.9c963b41d9062f484a60.jpg",
+    "static/media/aliens.jpg": "/alien/static/media/aliens.c8a5f75b6660a11a2692.jpg",
+    "static/media/art.jpg": "/alien/static/media/art.89129acf8d224bdac552.jpg",
+    "static/media/finish.jpg": "/alien/static/media/finish.09f76ff6557bb1454090.jpg",
+    "static/media/ripley.jpg": "/alien/static/media/ripley.ba921bbdf8e2e0f3f948.jpg",
+    "static/media/alienripley.jpg": "/alien/static/media/alienripley.1e4c76eb04873e14cada.jpg",
+    "static/media/crew.jpg": "/alien/static/media/crew.dbc7ed11c616c70f3a37.jpg",
+    "static/media/alien.jpeg": "/alien/static/media/alien.e58697ee89a01ca12936.jpeg",
     "index.html": "/alien/index.html",
-    "main.b8f1803e.css.map": "/alien/static/css/main.b8f1803e.css.map",
-    "main.a32af6fc.js.map": "/alien/static/js/main.a32af6fc.js.map"
+    "main.cac43dab.css.map": "/alien/static/css/main.cac43dab.css.map",
+    "main.a90fef06.js.map": "/alien/static/js/main.a90fef06.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8f1803e.css",
-    "static/js/main.a32af6fc.js"
+    "static/css/main.cac43dab.css",
+    "static/js/main.a90fef06.js"
   ]
 }
