@@ -1,0 +1,20 @@
+.footer {
+    &__body {
+        padding: 20px;
+        background-color: #ffffff;
+    }
+    &__title {
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 24px;
+        color: rgb(181, 131, 131);
+    }
+}
+
+@media (max-width: 400px) {
+    .footer {
+        &__title {
+            font-size: 18px;
+        }
+    }
+}
