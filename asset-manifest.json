@@ -1,21 +1,36 @@
 {
   "files": {
-    "main.css": "/alien/static/css/main.cac43dab.css",
-    "main.js": "/alien/static/js/main.a90fef06.js",
+    "main.css": "/alien/static/css/main.917cb3bd.css",
+    "main.js": "/alien/static/js/main.96462f5d.js",
     "static/media/retroalien.jpg": "/alien/static/media/retroalien.9c963b41d9062f484a60.jpg",
+    "static/media/first.jpg": "/alien/static/media/first.05d0ab9226d277e54ff1.jpg",
     "static/media/aliens.jpg": "/alien/static/media/aliens.c8a5f75b6660a11a2692.jpg",
+    "static/media/ripleyjones.jpg": "/alien/static/media/ripleyjones.1b75b8845bef4922852f.jpg",
+    "static/media/backhome.jpg": "/alien/static/media/backhome.a300c700ad68fd6dd0c2.jpg",
+    "static/media/ellens.jpg": "/alien/static/media/ellens.f3ab5a47a734b1246291.jpg",
     "static/media/art.jpg": "/alien/static/media/art.89129acf8d224bdac552.jpg",
+    "static/media/Forfans.jpg": "/alien/static/media/Forfans.a76066c4610f60dbd24c.jpg",
     "static/media/finish.jpg": "/alien/static/media/finish.09f76ff6557bb1454090.jpg",
+    "static/media/attak.jpg": "/alien/static/media/attak.bf5d5f2d32ea52c1fbb3.jpg",
+    "static/media/crewnew.jpg": "/alien/static/media/crewnew.dfa9dcccd9530b9e4893.jpg",
+    "static/media/aliencast.jpg": "/alien/static/media/aliencast.721ec47a7aa8d376a61f.jpg",
     "static/media/ripley.jpg": "/alien/static/media/ripley.ba921bbdf8e2e0f3f948.jpg",
+    "static/media/cool.jpg": "/alien/static/media/cool.8b33acb0d974a7ea0fa5.jpg",
+    "static/media/stasis.jpg": "/alien/static/media/stasis.f1ae784012ad5c2176b4.jpg",
     "static/media/alienripley.jpg": "/alien/static/media/alienripley.1e4c76eb04873e14cada.jpg",
+    "static/media/kane.jpg": "/alien/static/media/kane.030902ca36f7773c4448.jpg",
     "static/media/crew.jpg": "/alien/static/media/crew.dbc7ed11c616c70f3a37.jpg",
+    "static/media/ship.jpg": "/alien/static/media/ship.a90b337b771668875ed9.jpg",
+    "static/media/ash.jpg": "/alien/static/media/ash.e865bc867fcd13f310f6.jpg",
     "static/media/alien.jpeg": "/alien/static/media/alien.e58697ee89a01ca12936.jpeg",
+    "static/media/shattl.jpg": "/alien/static/media/shattl.ed16a0eec7bebcf8689e.jpg",
+    "static/media/wiwer.jpg": "/alien/static/media/wiwer.d574319f215166255662.jpg",
     "index.html": "/alien/index.html",
-    "main.cac43dab.css.map": "/alien/static/css/main.cac43dab.css.map",
-    "main.a90fef06.js.map": "/alien/static/js/main.a90fef06.js.map"
+    "main.917cb3bd.css.map": "/alien/static/css/main.917cb3bd.css.map",
+    "main.96462f5d.js.map": "/alien/static/js/main.96462f5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.cac43dab.css",
-    "static/js/main.a90fef06.js"
+    "static/css/main.917cb3bd.css",
+    "static/js/main.96462f5d.js"
   ]
 }
