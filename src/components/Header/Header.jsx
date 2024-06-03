@@ -25,10 +25,10 @@ const Header = () => {
                                     <Link to='/'>Main</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <Link to='/second'>Second</Link>
+                                    <Link to='/second'>Plot</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <Link to='/third'>Third</Link>
+                                    <Link to='/third'>S.Weaver</Link>
                                 </li>
                             </ul>
                         </nav>
